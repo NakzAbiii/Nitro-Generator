@@ -1,2 +1,3 @@
-# Nitro-Generator
-Read the Requierements
+Theres nothing special
+
+Just start the .bat file an enjoy your Nitro!
