@@ -1,0 +1,19 @@
+1.Step Download Python Version 3.11.0 or later
+https://python.org/downloads/
+
+2.Step Install pip 
+cmd run as administrator and type in:   python get-pip.py
+
+3.Step Open cmd as Administrator and type this in it will install these features
+pip install colorama 
+pip install requests
+
+4.Step Open the Start.bat file and enjoy ur nitro codes :)
+
+
+
+5.Step Follow my Youtube: https://www.youtube.com/channel/UCo9XkLJ29c_iwvojQn7fFag
+
+and subscribe to my Github :)
+
+Much luck to find some Nitro codes
